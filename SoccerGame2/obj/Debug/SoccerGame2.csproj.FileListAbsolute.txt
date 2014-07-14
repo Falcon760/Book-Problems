@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\SoccerGame2\bin\Debug\SoccerGame2.exe.config
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\SoccerGame2\bin\Debug\SoccerGame2.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\SoccerGame2\bin\Debug\SoccerGame2.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\SoccerGame2\obj\Debug\SoccerGame2.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\SoccerGame2\obj\Debug\SoccerGame2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\Book Exercises\bin\Debug\Book Exercises.exe.config
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\Book Exercises\bin\Debug\Book Exercises.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\Book Exercises\bin\Debug\Book Exercises.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\Book Exercises\obj\Debug\Book Exercises.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\Book Exercises\obj\Debug\Book Exercises.pdb
+C:\Users\Steve\Documents\GitHub\Book-Problems\Book Exercises\bin\Debug\Book Exercises.exe.config
+C:\Users\Steve\Documents\GitHub\Book-Problems\Book Exercises\obj\Debug\Book Exercises.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\Book Exercises\obj\Debug\Book Exercises.pdb

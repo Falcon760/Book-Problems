@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Book Exercises\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

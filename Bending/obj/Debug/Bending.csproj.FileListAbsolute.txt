@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\obj\Debug\Bending.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\bin\Debug\Bending.exe.config
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\bin\Debug\Bending.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\bin\Debug\Bending.pdb
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\obj\Debug\Bending.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\Bending\obj\Debug\Bending.pdb

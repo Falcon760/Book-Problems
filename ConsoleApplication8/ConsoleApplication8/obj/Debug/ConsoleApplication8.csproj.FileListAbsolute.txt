@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

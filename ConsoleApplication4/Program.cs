@@ -21,7 +21,7 @@ namespace ConsoleApplication4
                 choice = int.Parse(Console.ReadLine());
                 if (choice == 1)
                 {
-                    Console.WriteLine("What is the radius?");
+                    Console.WriteLine("What is the radius of your circle?");
                     int radius = int.Parse(Console.ReadLine());
                     double result = Math.PI * Math.Pow(radius, 2);
                     Console.WriteLine(result);

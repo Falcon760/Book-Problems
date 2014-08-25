@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\Steve\Documents\GitHub\Book-Problems\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
